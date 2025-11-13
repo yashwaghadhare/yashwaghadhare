@@ -1,17 +1,18 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+Waghadhare+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=569CD6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+Waghadhare+👋" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Curious+%26+Growth-Oriented+🧩" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=D69D85&center=true&vCenter=true&width=700&lines=Curious+%26+Growth-Oriented+🧩" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Professional+Yet+Creative+🎨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=C586C0&center=true&vCenter=true&width=700&lines=Professional+Yet+Creative+🎨" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Developer-Minded+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=9CDCFE&center=true&vCenter=true&width=700&lines=Developer-Minded+💻" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=700&lines=Goal-Driven+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=B5CEA8&center=true&vCenter=true&width=700&lines=Goal-Driven+🚀" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Collaborative+%26+Team-Focused+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=CE9178&center=true&vCenter=true&width=700&lines=Collaborative+%26+Team-Focused+🤝" />
 </p>
+
 
 
 <!-- Profile Views -->
