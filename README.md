@@ -1,7 +1,8 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=569CD6, D69D85, C586C0, 9CDCFE, B5CEA8, CE9178&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Curious+%26+Growth-Oriented+🧩;Professional+Yet+Creative+🎨;Developer-Minded+💻;Goal-Driven+🚀;Collaborative+%26+Team-Focused+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0080,FF8C00,FFD700,00FF00,00FFFF,0000FF,8A2BE2&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Curious+%26+Growth-Oriented+🧩;Professional+Yet+Creative+🎨;Developer-Minded+💻;Goal-Driven+🚀;Collaborative+%26+Team-Focused+🤝" alt="Typing SVG" />
 </p>
+
 
 
 <!-- Profile Views -->
