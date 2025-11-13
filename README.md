@@ -24,7 +24,19 @@
 
 | **Frontend** | **Backend & APIs** | **Mobile** | **Database** | **DevOps & Tools** |
 | :------------ | :---------------- | :----------- | :------------- | :----------------- |
-| HTML • CSS • JavaScript • React • Angular | C# • .NET • Python • Go • Rust • RESTful APIs | Android (Kotlin, Flutter) | MySQL • PostgreSQL | Git • VS Code • Postman • Linux |
+| HTML • CSS • JS • React • Angular | C# • .NET • Python • Go • Rust • RESTful APIs | Android (Kotlin, Flutter) | MySQL • PostgreSQL | Git • VS Code • Postman • Linux |
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwaghadhare&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghadhare&theme=tokyonight" width="90%" />
+</p>
 
 ---
 
