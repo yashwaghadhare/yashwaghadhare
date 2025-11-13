@@ -21,10 +21,10 @@
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML • CSS • JavaScript • React • Angular  
-**Backend:** C# • .NET • Python • Go • Rust  
-**Mobile:** Android (Kotlin, Flutter) 
+**Backend & APIs:** C# • .NET • Python • Go • Rust • RESTful & .NET APIs  
+**Mobile:** Android (Kotlin, Flutter)  
 **Database:** MySQL • PostgreSQL  
-**DevOps & Tools:** Git • VS Code • Postman • Linux
+**DevOps & Tools:** Git • VS Code • Postman • Linux  
 
 ---
 
