@@ -1,53 +1,65 @@
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0A7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Curious+and+Growth-Oriented+🧩;Professional+yet+Creative+🎨;Developer-Minded+💻;Goal-Driven+🚀;Collaborative+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C0A7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Curious+%26+Growth-Oriented+🧩;Professional+Yet+Creative+🎨;Developer-Minded+💻;Goal-Driven+🚀;Collaborative+%26+Team-Focused+🤝" alt="Typing SVG" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashwaghadhare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🌟 What Defines Me
-
-- 🧩 **Curious and growth-oriented**, always eager to level up my skills.  
-- 🎨 **Professional yet creative**, balancing discipline with a bit of fun in how I approach development.  
-- 💻 **Developer-minded**, with a deep interest in clean code, performance, and architecture — not just chasing frameworks.  
-- 🚀 **Goal-driven**, focused on mastering **cloud**, **DevOps**, and **full-stack architecture**.  
-- 🤝 **Collaborative**, open to sharing knowledge and connecting with others in tech.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** HTML • CSS • JavaScript • React • Angular  
-**Backend & APIs:** C# • .NET • Python • Go • Rust • RESTful & .NET APIs  
-**Mobile:** Android (Kotlin, Flutter)  
-**Database:** MySQL • PostgreSQL  
-**DevOps & Tools:** Git • VS Code • Postman • Linux  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashwaghadhare&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwaghadhare&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=yashwaghadhare&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌟 About Me  
+
+💡 **Curious & Growth-Oriented:** Constantly learning, experimenting, and evolving.  
+🎨 **Professional Yet Creative:** Blending discipline with imagination to craft quality solutions.  
+💻 **Developer-Minded:** Passionate about clean code, performance, and scalable architecture.  
+🚀 **Goal-Driven:** Focused on mastering **Cloud**, **DevOps**, and **Full-Stack Architecture**.  
+🤝 **Collaborative:** Always up for sharing knowledge and working with like-minded developers.
+
+---
+
+## 🧠 Tech Arsenal  
+
+| **Frontend** | **Backend & APIs** | **Mobile** | **Database** | **DevOps & Tools** |
+| :------------ | :---------------- | :----------- | :------------- | :----------------- |
+| HTML • CSS • JS • React • Angular | C# • .NET • Python • Go • Rust • RESTful APIs | Android (Kotlin, Flutter) | MySQL • PostgreSQL | Git • VS Code • Postman • Linux |
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashwaghadhare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwaghadhare&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghadhare&theme=tokyonight" width="90%" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-waghadhare-7b74562b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact.yashwaghadhare@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-⭐️ _“Code is like humor — when you have to explain it, it’s bad.”_
+## 💬 Quote I Live By  
+
+> ⭐ “Code is like humor — when you have to explain it, it’s bad.”  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0A7&height=100&section=footer" />
+</p>
