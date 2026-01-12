@@ -56,38 +56,10 @@ I specialize in **API-driven architecture**, **performance-optimized backends**,
 
 ### Tools & Workflow
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zoho-E42527?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
----
-
-## 💼 Experience  
-
-### 🏢 Onesnzeros Tech Solutions Pvt. Ltd.  
-**Software Engineer** | Apr 2025 – Present  
-
-- Developed end-to-end full-stack applications using **Python, React JS, and MySQL**
-- Designed and implemented **scalable REST APIs**
-- Optimized backend performance by refining API logic and database queries
-- Built modular, responsive UI components
-- Owned features from requirement analysis to production deployment
-- Supported testing, release validation, and post-deployment stability
-
----
-
-### 🏢 Aaryak Solutions Pvt. Ltd.  
-**Software Engineer** | Jun 2023 – Apr 2025  
-
-- Built web and mobile applications using **Angular JS, Flutter, and .NET Web APIs**
-- Developed backend services in **.NET Web API and Python**
-- Mentored junior developers, improving team productivity and code quality
-- Improved performance through better API design and MySQL optimization
-- Followed Git-based branching strategies and collaborative workflows
 
 ---
 
@@ -97,31 +69,6 @@ I regularly share my **projects, implementations, demos, and production work** o
 
 👉 **View all my projects and recent work here:**  
 🔗 https://www.linkedin.com/in/yash-waghadhare-7b74562b8/recent-activity/all/
-
-This includes:
-- Full-stack applications
-- Backend APIs
-- Flutter & web solutions
-- Real-world production features
-
----
-
-## 🏆 Achievements  
-
-- Introduced **Flutter development** at Aaryak Solutions Pvt. Ltd., enabling 5+ production-ready apps  
-- 🏅 **Innovator of the Year – Aaryak Solutions Pvt. Ltd.**  
-- ⭐ **Best Employee of the Quarter – Onesnzeros Tech Solutions Pvt. Ltd.**  
-- Recognized for delivering **low-defect, production-stable modules**
-
----
-
-## 🎓 Education  
-
-**M.Sc. Data Science** — Pursuing  
-Jun 2025 – Present  
-
-**B.Sc. Information Technology**  
-Jun 2020 – May 2023  
 
 ---
 
