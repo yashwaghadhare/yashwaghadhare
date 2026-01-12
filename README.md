@@ -1,42 +1,140 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0080,FF8C00,FFD700,00FF00,00FFFF,0000FF,8A2BE2&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Curious+%26+Growth-Oriented+🧩;Professional+Yet+Creative+🎨;Developer-Minded+💻;Goal-Driven+🚀;Collaborative+%26+Team-Focused+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00C0A7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Full-Stack+Software+Engineer;React+%7C+Angular+%7C+Flutter+%7C+Python+%7C+.NET;Building+Scalable+Production+Systems" alt="Typing SVG" />
 </p>
-
-
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashwaghadhare&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashwaghadhare&label=Profile+Views&color=00C0A7&style=flat-square" />
 </p>
 
 ---
 
-## 🌟 About Me  
+## 👋 About Me  
 
-💡 **Curious & Growth-Oriented:** Constantly learning, experimenting, and evolving.  
-🎨 **Professional Yet Creative:** Blending discipline with imagination to craft quality solutions.  
-💻 **Developer-Minded:** Passionate about clean code, performance, and scalable architecture.  
-🚀 **Goal-Driven:** Focused on mastering **Cloud**, **DevOps**, and **Full-Stack Architecture**.  
-🤝 **Collaborative:** Always up for sharing knowledge and working with like-minded developers.
+I’m a **Full-Stack Software Engineer** with **3+ years of hands-on experience** building scalable, production-ready **web and mobile applications**.
+
+I specialize in **API-driven architectures**, **performance-optimized backends**, and **clean, maintainable UI development**, with strong ownership from requirements to production deployment.
+
+- 🏢 **Software Engineer @ Onesnzeros Tech Solutions Pvt. Ltd.**
+- 💻 Full-stack development with **React, Angular, Flutter**
+- ⚙️ Backend expertise in **Python & .NET Web APIs**
+- 🗄️ Strong foundation in **MySQL & relational data modeling**
+- 🚀 Focused on scalability, performance, and real-world reliability
+- 🤝 Known for ownership, mentoring, and low-defect deliveries
 
 ---
 
-## 🧠 Tech Arsenal  
+## 🛠️ Tech Stack  
 
-<p align="center"> <b>Frontend</b><br> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </p> <p align="center"> <b>Backend & APIs</b><br> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge" /> </p> <p align="center"> <b>Mobile</b><br> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> </p> <p align="center"> <b>Database</b><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> </p> <p align="center"> <b>DevOps & Tools</b><br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho-E42527?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 💼 Experience  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwaghadhare&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+### 🏢 Onesnzeros Tech Solutions Pvt. Ltd.  
+**Software Engineer** | Apr 2025 – Present  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghadhare&theme=tokyonight" width="90%" />
-</p>
+- Developed end-to-end full-stack applications using **Python, React JS, and MySQL**
+- Designed and implemented **scalable REST APIs**
+- Optimized backend performance by improving API logic and query execution
+- Built modular, responsive UI components in React
+- Owned features from requirement analysis to production deployment
+- Actively supported testing, release validation, and post-deployment stability
+
+---
+
+### 🏢 Aaryak Solutions Pvt. Ltd.  
+**Software Engineer** | Jun 2023 – Apr 2025  
+
+- Built and maintained web & mobile applications using **Angular JS, Flutter, and .NET Web APIs**
+- Developed backend services in **.NET Web API and Python**
+- Mentored junior developers, improving team productivity and code quality
+- Optimized application performance through better API design and MySQL tuning
+- Followed Git-based branching strategies and collaborative workflows
+
+---
+
+## 🚀 Projects  
+
+### 📝 Exam Portal  
+**Python | React | MySQL**  
+- End-to-end online examination platform
+- Secure APIs, ranking logic, analytics dashboards
+- Image uploads, reports, and performance optimization
+
+### 🛒 E-commerce Website (PWA)  
+**Angular | .NET Web API | MySQL**  
+- Admin & customer modules
+- Product, cart, checkout, and order workflows
+- Optimized backend APIs and database operations
+
+### 🍔 Food Delivery System  
+**Flutter | Firebase**  
+- Migrated Ionic app to Flutter
+- Improved performance, stability, and maintainability
+- Delivered unified cross-platform codebase
+
+### 🏃 Marathon-Moments  
+**.NET | Google Vision API | MySQL**  
+- Automated marathon photo processing platform
+- Bib number detection using Vision APIs
+- Fast participant photo search by bib number
+
+---
+
+## 🏆 Achievements  
+
+- Introduced **Flutter development** at Aaryak Solutions, enabling 5+ production apps  
+- 🏅 **Innovator of the Year – Aaryak Solutions Pvt. Ltd.**  
+- ⭐ **Best Employee of the Quarter – Onesnzeros Tech Solutions Pvt. Ltd.**  
+- Known for delivering **low-defect, production-stable modules**
+
+---
+
+## 🎓 Education  
+
+**M.Sc. Data Science** — *Pursuing*  
+Jun 2025 – Present  
+
+**B.Sc. Information Technology**  
+Jun 2020 – May 2023  
 
 ---
 
@@ -44,18 +142,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-waghadhare-7b74562b8/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact.yashwaghadhare@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> ⭐ “Code is like humor — when you have to explain it, it’s bad.”  
-
----
+> “First, make it work. Then make it right. Then make it fast.”
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0A7&height=100&section=footer" />
