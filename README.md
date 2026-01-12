@@ -16,7 +16,6 @@ I’m a **Full-Stack Software Engineer** with **3+ years of hands-on experience*
 
 I specialize in **API-driven architecture**, **performance-optimized backends**, and **clean, maintainable UI development**, with strong ownership from requirement analysis to production deployment.
 
-- 🏢 **Software Engineer @ Onesnzeros Tech Solutions Pvt. Ltd.**
 - 💻 Full-stack development with **React, Angular, Flutter**
 - ⚙️ Backend expertise in **Python & .NET Web APIs**
 - 🗄️ Strong foundation in **MySQL & relational data modeling**
