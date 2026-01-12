@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00C0A7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Full-Stack+Software+Engineer;React+%7C+Angular+%7C+Flutter+%7C+Python+%7C+.NET;Building+Scalable+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00C0A7&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Yash+Waghadhare+👋;Full-Stack+Software+Engineer;React+%7C+Angular+%7C+Flutter+%7C+Python+%7C+.NET;Building+Scalable+Production+Systems" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
@@ -14,7 +14,7 @@
 
 I’m a **Full-Stack Software Engineer** with **3+ years of hands-on experience** building scalable, production-ready **web and mobile applications**.
 
-I specialize in **API-driven architectures**, **performance-optimized backends**, and **clean, maintainable UI development**, with strong ownership from requirements to production deployment.
+I specialize in **API-driven architecture**, **performance-optimized backends**, and **clean, maintainable UI development**, with strong ownership from requirement analysis to production deployment.
 
 - 🏢 **Software Engineer @ Onesnzeros Tech Solutions Pvt. Ltd.**
 - 💻 Full-stack development with **React, Angular, Flutter**
@@ -73,64 +73,51 @@ I specialize in **API-driven architectures**, **performance-optimized backends**
 
 - Developed end-to-end full-stack applications using **Python, React JS, and MySQL**
 - Designed and implemented **scalable REST APIs**
-- Optimized backend performance by improving API logic and query execution
-- Built modular, responsive UI components in React
+- Optimized backend performance by refining API logic and database queries
+- Built modular, responsive UI components
 - Owned features from requirement analysis to production deployment
-- Actively supported testing, release validation, and post-deployment stability
+- Supported testing, release validation, and post-deployment stability
 
 ---
 
 ### 🏢 Aaryak Solutions Pvt. Ltd.  
 **Software Engineer** | Jun 2023 – Apr 2025  
 
-- Built and maintained web & mobile applications using **Angular JS, Flutter, and .NET Web APIs**
+- Built web and mobile applications using **Angular JS, Flutter, and .NET Web APIs**
 - Developed backend services in **.NET Web API and Python**
 - Mentored junior developers, improving team productivity and code quality
-- Optimized application performance through better API design and MySQL tuning
+- Improved performance through better API design and MySQL optimization
 - Followed Git-based branching strategies and collaborative workflows
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects & Work  
 
-### 📝 Exam Portal  
-**Python | React | MySQL**  
-- End-to-end online examination platform
-- Secure APIs, ranking logic, analytics dashboards
-- Image uploads, reports, and performance optimization
+I regularly share my **projects, implementations, demos, and production work** on LinkedIn.
 
-### 🛒 E-commerce Website (PWA)  
-**Angular | .NET Web API | MySQL**  
-- Admin & customer modules
-- Product, cart, checkout, and order workflows
-- Optimized backend APIs and database operations
+👉 **View all my projects and recent work here:**  
+🔗 https://www.linkedin.com/in/yash-waghadhare-7b74562b8/recent-activity/all/
 
-### 🍔 Food Delivery System  
-**Flutter | Firebase**  
-- Migrated Ionic app to Flutter
-- Improved performance, stability, and maintainability
-- Delivered unified cross-platform codebase
-
-### 🏃 Marathon-Moments  
-**.NET | Google Vision API | MySQL**  
-- Automated marathon photo processing platform
-- Bib number detection using Vision APIs
-- Fast participant photo search by bib number
+This includes:
+- Full-stack applications
+- Backend APIs
+- Flutter & web solutions
+- Real-world production features
 
 ---
 
 ## 🏆 Achievements  
 
-- Introduced **Flutter development** at Aaryak Solutions, enabling 5+ production apps  
+- Introduced **Flutter development** at Aaryak Solutions Pvt. Ltd., enabling 5+ production-ready apps  
 - 🏅 **Innovator of the Year – Aaryak Solutions Pvt. Ltd.**  
 - ⭐ **Best Employee of the Quarter – Onesnzeros Tech Solutions Pvt. Ltd.**  
-- Known for delivering **low-defect, production-stable modules**
+- Recognized for delivering **low-defect, production-stable modules**
 
 ---
 
 ## 🎓 Education  
 
-**M.Sc. Data Science** — *Pursuing*  
+**M.Sc. Data Science** — Pursuing  
 Jun 2025 – Present  
 
 **B.Sc. Information Technology**  
