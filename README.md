@@ -84,8 +84,6 @@ I regularly share my **projects, implementations, demos, and production work** o
 
 ---
 
-> “First, make it work. Then make it right. Then make it fast.”
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C0A7&height=100&section=footer" />
 </p>
